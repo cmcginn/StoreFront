@@ -1,0 +1,8 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb

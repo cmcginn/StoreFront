@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.FixedRate\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.pdb

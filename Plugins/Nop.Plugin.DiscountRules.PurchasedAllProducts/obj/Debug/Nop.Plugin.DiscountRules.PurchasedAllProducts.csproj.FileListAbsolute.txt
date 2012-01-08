@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\DiscountRules.PurchasedAllProducts\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\DiscountRules.PurchasedAllProducts\Nop.Plugin.DiscountRules.PurchasedAllProducts.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\DiscountRules.PurchasedAllProducts\Nop.Plugin.DiscountRules.PurchasedAllProducts.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.PurchasedAllProducts\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.PurchasedAllProducts\obj\Debug\Nop.Plugin.DiscountRules.PurchasedAllProducts.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.PurchasedAllProducts\obj\Debug\Nop.Plugin.DiscountRules.PurchasedAllProducts.pdb

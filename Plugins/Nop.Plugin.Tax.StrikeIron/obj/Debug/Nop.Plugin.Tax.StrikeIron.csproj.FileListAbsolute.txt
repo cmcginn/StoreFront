@@ -1,0 +1,7 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.StrikeIron\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.StrikeIron\Nop.Plugin.Tax.StrikeIron.dll.config
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.StrikeIron\Nop.Plugin.Tax.StrikeIron.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.StrikeIron\Nop.Plugin.Tax.StrikeIron.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\obj\Debug\Nop.Plugin.Tax.StrikeIron.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\obj\Debug\Nop.Plugin.Tax.StrikeIron.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Payments.PayInStore\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Payments.PayInStore\Nop.Plugin.Payments.PayInStore.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Payments.PayInStore\Nop.Plugin.Payments.PayInStore.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayInStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayInStore\obj\Debug\Nop.Plugin.Payments.PayInStore.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayInStore\obj\Debug\Nop.Plugin.Payments.PayInStore.pdb

@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=WIN-RNMUH95F9U1\SQLSERVER2008;Initial Catalog=StoreFront;Integrated Security=False;Persist Security Info=False;User ID=StoreAccess;Password=testing!;MultipleActiveResultSets=True

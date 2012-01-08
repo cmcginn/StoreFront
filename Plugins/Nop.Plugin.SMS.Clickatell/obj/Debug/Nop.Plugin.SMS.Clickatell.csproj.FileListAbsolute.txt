@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\SMS.Clickatell\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\SMS.Clickatell\Nop.Plugin.SMS.Clickatell.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\SMS.Clickatell\Nop.Plugin.SMS.Clickatell.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Clickatell\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Clickatell\obj\Debug\Nop.Plugin.SMS.Clickatell.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Clickatell\obj\Debug\Nop.Plugin.SMS.Clickatell.pdb

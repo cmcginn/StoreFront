@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\DiscountRules.BillingCountry\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\DiscountRules.BillingCountry\Nop.Plugin.DiscountRules.BillingCountry.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\DiscountRules.BillingCountry\Nop.Plugin.DiscountRules.BillingCountry.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.BillingCountry\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.BillingCountry\obj\Debug\Nop.Plugin.DiscountRules.BillingCountry.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.BillingCountry\obj\Debug\Nop.Plugin.DiscountRules.BillingCountry.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

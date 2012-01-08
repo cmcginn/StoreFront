@@ -1,0 +1,9 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\oauth\facebook-logo-large.jpg
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\oauth\facebook-logo.jpg
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb

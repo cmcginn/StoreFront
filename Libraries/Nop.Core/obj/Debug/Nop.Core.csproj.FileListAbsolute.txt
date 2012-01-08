@@ -1,0 +1,9 @@
+C:\Projects\Urbana\StoreFront\Libraries\Nop.Core\bin\Debug\Nop.Core.dll
+C:\Projects\Urbana\StoreFront\Libraries\Nop.Core\bin\Debug\Nop.Core.pdb
+C:\Projects\Urbana\StoreFront\Libraries\Nop.Core\bin\Debug\Autofac.Configuration.dll
+C:\Projects\Urbana\StoreFront\Libraries\Nop.Core\bin\Debug\Autofac.dll
+C:\Projects\Urbana\StoreFront\Libraries\Nop.Core\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Projects\Urbana\StoreFront\Libraries\Nop.Core\bin\Debug\Autofac.xml
+C:\Projects\Urbana\StoreFront\Libraries\Nop.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
+C:\Projects\Urbana\StoreFront\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb

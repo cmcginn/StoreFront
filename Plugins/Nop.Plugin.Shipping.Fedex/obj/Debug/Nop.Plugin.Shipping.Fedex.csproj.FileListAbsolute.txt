@@ -1,0 +1,7 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Shipping.Fedex\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll.config
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb

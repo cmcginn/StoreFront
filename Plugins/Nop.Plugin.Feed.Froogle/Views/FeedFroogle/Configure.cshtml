@@ -1,0 +1,178 @@
+﻿@{
+    Layout = "";
+}
+@model FeedFroogleModel
+@using Nop.Plugin.Feed.Froogle.Models;
+@using Nop.Web.Framework;
+@using Nop.Core.Infrastructure;
+@using Telerik.Web.Mvc;
+@using Telerik.Web.Mvc.UI;
+@using (Html.BeginForm())
+{
+    @Html.Telerik().TabStrip().Name("googlebase-configure").Items(x =>
+{
+    x.Add().Text(T("Plugins.Feed.Froogle.General").Text).Content(TabGeneral().ToHtmlString()).Selected(true);
+    x.Add().Text(T("Plugins.Feed.Froogle.Override").Text).Content(TabOverride().ToHtmlString());
+})
+}
+@helper TabGeneral()
+    { 
+    <table class="adminContent">
+        <tr>
+            <td colspan="2">
+                <ul>
+                    <li>At least two unique product identifiers are required. So each of your product should
+                        have manufacturer (brand) and MPN (manufacturer part number) specified</li>
+                    <li>Specify default tax values in your Google Merchant Center account settings</li>
+                    <li>Specify default shipping values in your Google Merchant Center account settings</li>
+                    <li>In order to get more info about required fields look at the following article <a
+                        href="http://www.google.com/support/merchants/bin/answer.py?answer=188494" target="_blank">
+                        http://www.google.com/support/merchants/bin/answer.py?answer=188494</a> </li>
+                </ul>
+            </td>
+        </tr>
+        <tr class="adminSeparator">
+            <td colspan="2">
+                <hr />
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.ProductPictureSize):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.ProductPictureSize)
+                @Html.ValidationMessageFor(model => model.ProductPictureSize)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.CurrencyId):
+            </td>
+            <td class="adminData">
+                @Html.DropDownListFor(model => model.CurrencyId, Model.AvailableCurrencies)
+                @Html.ValidationMessageFor(model => model.CurrencyId)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.DefaultGoogleCategory):
+            </td>
+            <td class="adminData">
+                @Html.DropDownListFor(model => model.DefaultGoogleCategory, Model.AvailableGoogleCategories)
+                @Html.ValidationMessageFor(model => model.DefaultGoogleCategory)
+            </td>
+        </tr>
+        <tr class="adminSeparator">
+            <td colspan="2">
+                <hr />
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.FtpHostname):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.FtpHostname)
+                @Html.ValidationMessageFor(model => model.FtpHostname)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.FtpFilename):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.FtpFilename)
+                @Html.ValidationMessageFor(model => model.FtpFilename)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.FtpUsername):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.FtpUsername)
+                @Html.ValidationMessageFor(model => model.FtpUsername)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.FtpPassword):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.FtpPassword)
+                @Html.ValidationMessageFor(model => model.FtpPassword)
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" width="100%">
+                <button type="submit" name="save" value="save" class="t-button">
+                    @T("Admin.Common.Save")</button>
+                <button type="submit" name="generate" value="generate" class="t-button">
+                    @T("Plugins.Feed.Froogle.Generate")</button>
+                <button type="submit" name="uploadfeed" value="uploadfeed" class="t-button">
+                    @T("Plugins.Feed.Froogle.Upload")</button>
+            </td>
+        </tr>
+        @if (!String.IsNullOrEmpty(Model.GenerateFeedResult))
+        {
+            <tr class="adminSeparator">
+                <td colspan="2">
+                    <hr />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" width="100%">
+                    <b>@Html.Raw(Model.GenerateFeedResult)</b>
+                </td>
+            </tr>
+        }
+    </table>        
+}
+@helper TabOverride()
+    { 
+    <table class="adminContent">
+        <tr>
+            <td colspan="2">
+                You can download the list of allowed Google product category attributes <a href="http://www.google.com/support/merchants/bin/answer.py?answer=160081"
+                    target="_blank">here</a>
+            </td>
+        </tr>
+        <tr class="adminSeparator">
+            <td colspan="2">
+                <hr />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @(Html.Telerik().Grid<FeedFroogleModel.GoogleProductModel>()
+                    .Name("froogleproducts-grid")
+                    .DataKeys(keys =>
+                    {
+                        keys.Add(x => x.ProductVariantId).RouteKey("ProductVariantId");
+                    })
+                    .DataBinding(dataBinding =>
+                    {
+                        dataBinding.Ajax()
+                            .Select("GoogleProductList", "FeedFroogle", new RouteValueDictionary() { { "Namespaces", "Nop.Plugin.Feed.Froogle.Controllers" }, { "area", "" } })
+                            .Update("GoogleProductUpdate", "FeedFroogle", new RouteValueDictionary() { { "Namespaces", "Nop.Plugin.Feed.Froogle.Controllers" }, { "area", "" } });
+                    })
+                    .Columns(columns =>
+                    {
+                        columns.Bound(x => x.FullProductVariantName)
+                            .Width(200)
+                            .ReadOnly();
+                        columns.Bound(x => x.GoogleCategory)
+                            .Width(600);
+                        columns.Command(commands =>
+                        {
+                            commands.Edit();
+                        })
+                        .Width(100);
+                    })
+                    .Pageable(settings => settings.PageSize(15).Position(GridPagerPosition.Both))
+                    .EnableCustomBinding(true))
+            </td>
+        </tr>
+    </table>
+}

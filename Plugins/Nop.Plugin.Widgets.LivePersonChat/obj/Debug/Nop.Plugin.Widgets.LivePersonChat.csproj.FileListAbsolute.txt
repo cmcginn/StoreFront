@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.pdb

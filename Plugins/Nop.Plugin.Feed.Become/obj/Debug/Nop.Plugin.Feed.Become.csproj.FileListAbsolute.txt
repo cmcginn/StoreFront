@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Feed.Become\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Feed.Become\Nop.Plugin.Feed.Become.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Feed.Become\Nop.Plugin.Feed.Become.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Become\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Become\obj\Debug\Nop.Plugin.Feed.Become.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Become\obj\Debug\Nop.Plugin.Feed.Become.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.Free\Description.txt
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.Free\Nop.Plugin.Tax.Free.dll
+C:\Projects\Urbana\StoreFront\Presentation\Nop.Web\Plugins\Tax.Free\Nop.Plugin.Tax.Free.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.Free\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.Free\obj\Debug\Nop.Plugin.Tax.Free.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.Free\obj\Debug\Nop.Plugin.Tax.Free.pdb
