@@ -1,0 +1,407 @@
+/*
+Template Name: Modular Business
+File: Layout CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+@import url(navi.css);
+@import url(forms.css);
+@import url(tables.css);
+@import url(featured_slide.css);
+
+body{
+	margin:0;
+	padding:0;
+	font-size:12px;
+	font-family:verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	background-color:#333333;
+	}
+
+img{border:0; padding:0; margin:0;}
+.justify{text-align:justify;}
+.bold{font-weight:bold;}
+.center{text-align:center;}
+.right{text-align:right;}
+.nostart {list-style-type:none; margin:0; padding:0;}
+.clear{clear:both;}
+br.clear{clear:both; margin-top:-15px;}
+a{outline:none; text-decoration:none;}
+
+.fl_left{float:left;}
+.fl_right{float:right;}
+
+.imgl, .imgr{border:1px solid #666666; padding:5px; color:#666666; background-color:#FFFFFF;}
+.imgl{float:left; margin:0 15px 0 0; clear:left;}
+.imgr{float:right; margin:0 0 15px 15px; clear:right;}
+
+/* ----------------------------------------------Wrapper-------------------------------------*/
+
+div.wrapper{
+	display:block;
+	width:100%;
+	margin:0;
+	text-align:left;
+	}
+
+div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{
+	margin:0 0 15px 0;
+	padding:0;
+	font-size:20px;
+	font-weight:normal;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	}
+
+.col1, .col1 a{color:#FFFFFF; background-color:#D51D29;}
+.col2{color:#FFFFFF; background-color:#000000;}
+.col3{color:#999999; background-color:#4C4C4E; border-bottom:1px solid #D51D29;}
+.col4{color:#FFFFFF; background-color:#232323; border-bottom:1px solid #D51D29;}
+.col4 a{color:#FFFFFF; background-color:#232323;}
+.col5{color:#666666; background-color:#FFFFFF;}
+.col5 a{color:#D51D29; background-color:#FFFFFF;}
+.col6{color:#98989A; background-color:#2D2B2B; border-top:1px solid #D51D29;}
+.col6 a{color:#CCCCCC; background-color:#2D2B2B;}
+.col7, .col7 a{color:#605B5B; background-color:#333333;}
+
+/* ----------------------------------------------Generalise-------------------------------------*/
+
+#topbar, #header, #topnav, #intro, #breadcrumb, #container, #footer, #copyright{
+	position:relative;
+	margin:0 auto 0;
+	display:block;
+	width:960px;
+	}
+	
+/* ----------------------------------------------TopBar-------------------------------------*/
+
+#topbar{
+	padding:10px 0;
+	}
+
+#topbar p{
+	float:left;
+	margin:0;
+	padding:0;
+	}
+
+#topbar ul{
+	float:right;
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+#topbar li{
+	display:inline;
+	margin:0 8px 0 0;
+	padding:0 10px 0 0;
+	border-right:1px solid #FFFFFF;
+	}
+
+#topbar li.last{
+	margin-right:0;
+	padding-right:0;
+	border:none;
+	}
+
+/* ----------------------------------------------Header-------------------------------------*/
+
+#header{
+	padding:20px 0;
+	}
+
+#header h1, #header p{
+	margin:0;
+	padding:0;
+	}
+
+#header .fl_left{
+	display:block;
+	float:left;
+	width:400px;
+	}
+
+#header .fl_right{
+	display:block;
+	float:right;
+	width:468px;
+	}
+
+#header h1{
+	margin:0;
+	font-size:36px;
+	border:none;
+	}
+
+#header h1 a{
+	color:#FFFFFF;
+	background-color:#000000;
+	}
+
+/* ----------------------------------------------BreadCrumb-------------------------------------*/
+
+#breadcrumb{
+	padding:20px 0;
+	}
+
+#breadcrumb ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+#breadcrumb ul li{display:inline;}
+#breadcrumb ul li.current a{text-decoration:underline;}
+
+/* ----------------------------------------------Content-------------------------------------*/
+
+#container{
+	padding:20px 0;
+	line-height:1.4em;
+	}
+
+#container h1, #container h2, #container h3, #container h4, #container h5, #container h6{
+	padding-bottom:8px;
+	border-bottom:1px dotted #CCCCCC;
+	}
+
+#content{
+	display:block;
+	float:left;
+	width:600px;
+	}
+
+/* ------Comments-----*/
+
+#comments{margin-bottom:40px;}
+
+#comments .commentlist {margin:0; padding:0;}
+
+#comments .commentlist ul{margin:0; padding:0; list-style:none;}
+
+#comments .commentlist li.comment_odd, #comments .commentlist li.comment_even{margin:0 0 10px 0; padding:15px; list-style:none;}
+
+#comments .commentlist li.comment_odd{color:#666666; background-color:#F3F3F3;}
+#comments .commentlist li.comment_odd a{color:#D51D29; background-color:#F3F3F3;}
+
+#comments .commentlist li.comment_even{color:#666666; background-color:#E8E8E8;}
+#comments .commentlist li.comment_even a{color:#D51D29; background-color:#E8E8E8;}
+
+#comments .commentlist .author .name{font-weight:bold;}
+#comments .commentlist .submitdate{font-size:smaller;}
+
+#comments .commentlist p{margin:10px 5px 10px 0; padding:0; font-weight: normal;text-transform: none;}
+
+#comments .commentlist li .avatar{float:right; border:1px solid #EEEEEE; margin:0 0 0 10px;}
+
+/* ----------------------------------------------Column-------------------------------------*/
+
+#column{
+	display:block;
+	float:right;
+	width:300px;
+	}
+
+.flickrbox ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+	
+.flickrbox li{
+	display:block;
+	float:left;
+	width:80px;
+	height:80px;
+	margin:0 15px 15px 0;
+	padding:4px;
+	color:#666666;
+	background-color:#FFFFFF;
+	border:1px solid #CCCCCC;
+	}
+
+.flickrbox li.last{margin-right:0;}
+
+#column .holder, #column #featured{
+	display:block;
+	width:300px;
+	margin-bottom:20px;
+	}
+
+#column .holder h2.title{
+	display:block;
+	width:100%;
+	height:65px;
+	margin:0;
+	padding:15px 0 0 0;
+	font-size:20px;
+	line-height:normal;
+	border-bottom:1px dashed #666666;
+	}
+
+#column .holder h2.title img{
+	float:left;
+	margin:-15px 8px 0 0;
+	padding:5px;
+	border:1px solid #666666;
+	}
+
+#column div.imgholder{
+	display:block;
+	width:290px;
+	margin:0 0 10px 0;
+	padding:4px;
+	color:#666666;
+	background-color:#FFFFFF;
+	border:1px solid #CCCCCC;
+	}
+
+#column .holder p.readmore{
+	display:block;
+	width:100%;
+	font-weight:bold;
+	text-align:right;
+	line-height:normal;
+	}
+	
+/* Featured Block */
+
+#column #featured a{
+	color:#666666;
+	background-color:#F9F9F9;
+	}
+
+#column #featured ul, #column #featured h2, #column #featured p{
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+#column #featured a{
+	color:#D51D29;
+	background-color:#F9F9F9;
+	}
+
+#column #featured li{
+	display:block;
+	width:250px;
+	margin:0;
+	padding:20px 25px;
+	color:#666666;
+	background-color:#F9F9F9;
+	}
+
+#column #featured li p.imgholder{
+	display:block;
+	width:240px;
+	height:90px;
+	margin:20px 0 15px 0;
+	padding:4px;
+	border:1px solid #CCCCCC;
+	}
+
+#column #featured li h2{
+	margin:0;
+	padding:0 0 14px 0;
+	font-weight:normal;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	line-height:normal;
+	border-bottom:1px dashed #666666;
+	}
+
+#column #featured p.readmore{
+	display:block;
+	width:100%;
+	margin-top:15px;
+	font-weight:bold;
+	text-align:right;
+	line-height:normal;
+	}
+
+#column #latestnews{
+	display:block;
+	width:100%;
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+#column #latestnews li{
+	display:block;
+	margin:0 0 20px 0;
+	padding:0 0 15px 0;
+	border-bottom:1px dotted #CCCCCC;
+	}
+
+#column #latestnews li.last{
+	margin-bottom:0;
+	}
+
+#column #latestnews p{
+	margin:0 0 5px 0;
+	padding:0;
+	}
+
+#column #latestnews p.readmore{
+	margin:0;
+	padding:0;
+	}
+
+#column #latestnews .imgl{
+	margin:0 10px 10px 0;
+	padding:4px;
+	}
+
+/* ----------------------------------------------Footer-------------------------------------*/
+
+#footer{
+	padding:20px 0;
+	}
+
+#footer h2{
+	padding-bottom:8px;
+	border-bottom:1px dotted #999999;
+	}
+
+#footer p, #footer ul, #footer a{
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	list-style:none;
+	line-height:normal;
+	}
+
+#footer .footbox{
+	display:block;
+	float:right;
+	width:190px;
+	margin:0 0 0 30px;
+	padding:0;
+	}
+
+#footer li{
+	margin-bottom:3px;
+	}
+
+#footer .last{
+	margin:0;
+	}
+
+#newsletter{
+	display:block;
+	float:left;
+	width:300px;
+	}
+
+/* ----------------------------------------------Copyright-------------------------------------*/
+
+#copyright{
+	padding:15px 0;
+	}
+
+#copyright p{
+	margin:0;
+	padding:0;
+	}

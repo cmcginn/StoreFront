@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.UPS\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.UPS\bin\Minimal\Nop.Plugin.Shipping.UPS.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.UPS\bin\Minimal\Nop.Plugin.Shipping.UPS.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.UPS\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.UPS\obj\Minimal\Nop.Plugin.Shipping.UPS.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.UPS\obj\Minimal\Nop.Plugin.Shipping.UPS.pdb

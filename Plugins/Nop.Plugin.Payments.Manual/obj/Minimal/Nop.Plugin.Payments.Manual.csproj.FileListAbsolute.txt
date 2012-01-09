@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.Manual\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.Manual\bin\Minimal\Nop.Plugin.Payments.Manual.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.Manual\bin\Minimal\Nop.Plugin.Payments.Manual.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.Manual\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.Manual\obj\Minimal\Nop.Plugin.Payments.Manual.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.Manual\obj\Minimal\Nop.Plugin.Payments.Manual.pdb

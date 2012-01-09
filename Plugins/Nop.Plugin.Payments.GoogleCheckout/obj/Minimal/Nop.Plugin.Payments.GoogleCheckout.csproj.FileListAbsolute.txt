@@ -1,0 +1,7 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.GoogleCheckout\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.GoogleCheckout\bin\Minimal\Nop.Plugin.Payments.GoogleCheckout.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.GoogleCheckout\bin\Minimal\Nop.Plugin.Payments.GoogleCheckout.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.GoogleCheckout\bin\Minimal\GCheckout.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Minimal\Nop.Plugin.Payments.GoogleCheckout.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Minimal\Nop.Plugin.Payments.GoogleCheckout.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\bin\Minimal\Nop.Plugin.DiscountRules.HasAllProducts.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\bin\Minimal\Nop.Plugin.DiscountRules.HasAllProducts.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Minimal\Nop.Plugin.DiscountRules.HasAllProducts.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Minimal\Nop.Plugin.DiscountRules.HasAllProducts.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CashOnDelivery\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CashOnDelivery\bin\Minimal\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CashOnDelivery\bin\Minimal\Nop.Plugin.Payments.CashOnDelivery.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Minimal\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Minimal\Nop.Plugin.Payments.CashOnDelivery.pdb

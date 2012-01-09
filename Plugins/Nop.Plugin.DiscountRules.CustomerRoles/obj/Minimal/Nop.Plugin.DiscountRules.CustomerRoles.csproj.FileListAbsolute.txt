@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\bin\Minimal\Nop.Plugin.DiscountRules.CustomerRoles.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\bin\Minimal\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Minimal\Nop.Plugin.DiscountRules.CustomerRoles.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Minimal\Nop.Plugin.DiscountRules.CustomerRoles.pdb

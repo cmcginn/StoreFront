@@ -39,7 +39,7 @@ h2,h3{font-size:16px;}
 .header .ico-wishlist{background:url(images/ico-wishlist.gif) no-repeat;padding-left:20px;}
 .header .ico-admin{background:url(images/ico-admin.gif) no-repeat;padding-left:20px;}
 .header-logo{margin-top:5px;float:left;text-align:left;}
-a.logo{background:url(images/logo.gif);display:block;width:225px;height:60px;text-decoration:none;}
+a.logo{background:url(images/logo.png);display:block;width:225px;height:60px;text-decoration:none;}
 .header-selectors-wrapper{text-align:right;float:right;width:500px;}
 .header-currencyselector{float:right;}
 .header-languageselector{float:right;}

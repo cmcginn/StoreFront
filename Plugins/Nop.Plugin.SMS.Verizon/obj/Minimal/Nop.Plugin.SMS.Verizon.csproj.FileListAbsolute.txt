@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Verizon\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Verizon\bin\Minimal\Nop.Plugin.SMS.Verizon.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Verizon\bin\Minimal\Nop.Plugin.SMS.Verizon.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Verizon\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Verizon\obj\Minimal\Nop.Plugin.SMS.Verizon.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Verizon\obj\Minimal\Nop.Plugin.SMS.Verizon.pdb

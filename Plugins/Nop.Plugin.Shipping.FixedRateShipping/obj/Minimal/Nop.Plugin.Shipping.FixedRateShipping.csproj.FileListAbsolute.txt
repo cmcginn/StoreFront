@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.FixedRateShipping\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.FixedRateShipping\bin\Minimal\Nop.Plugin.Shipping.FixedRateShipping.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.FixedRateShipping\bin\Minimal\Nop.Plugin.Shipping.FixedRateShipping.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Minimal\Nop.Plugin.Shipping.FixedRateShipping.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Minimal\Nop.Plugin.Shipping.FixedRateShipping.pdb

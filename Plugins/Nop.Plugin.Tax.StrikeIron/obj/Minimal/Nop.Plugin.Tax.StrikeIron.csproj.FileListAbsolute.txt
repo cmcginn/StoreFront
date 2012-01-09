@@ -1,0 +1,9 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\bin\Minimal\Nop.Plugin.Tax.StrikeIron.dll.config
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\bin\Minimal\Nop.Plugin.Tax.StrikeIron.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\bin\Minimal\Nop.Plugin.Tax.StrikeIron.XmlSerializers.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\bin\Minimal\Nop.Plugin.Tax.StrikeIron.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\obj\Minimal\Nop.Plugin.Tax.StrikeIron.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\obj\Minimal\Nop.Plugin.Tax.StrikeIron.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.StrikeIron\obj\Minimal\Nop.Plugin.Tax.StrikeIron.XmlSerializers.dll

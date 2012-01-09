@@ -1,0 +1,13 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\Content\Images\oauth\twitter-logo-large.jpg
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\Content\Images\oauth\twitter-logo.jpg
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\Content\Images\oauth\twitter_logo_75x17.jpg
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\Content\twitterstyles.css
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\Nop.Plugin.ExternalAuth.Twitter.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\Nop.Plugin.ExternalAuth.Twitter.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\DotNetOpenAuth.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\LinqToTwitter.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\bin\Minimal\DotNetOpenAuth.xml
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\obj\Minimal\Nop.Plugin.ExternalAuth.Twitter.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Twitter\obj\Minimal\Nop.Plugin.ExternalAuth.Twitter.pdb

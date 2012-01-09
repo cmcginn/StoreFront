@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.ShippingCountry\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.ShippingCountry\bin\Minimal\Nop.Plugin.DiscountRules.ShippingCountry.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.ShippingCountry\bin\Minimal\Nop.Plugin.DiscountRules.ShippingCountry.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.ShippingCountry\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.ShippingCountry\obj\Minimal\Nop.Plugin.DiscountRules.ShippingCountry.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.DiscountRules.ShippingCountry\obj\Minimal\Nop.Plugin.DiscountRules.ShippingCountry.pdb

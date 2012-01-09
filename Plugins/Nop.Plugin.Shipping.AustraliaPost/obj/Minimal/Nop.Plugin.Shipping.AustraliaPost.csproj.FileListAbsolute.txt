@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.AustraliaPost\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.AustraliaPost\bin\Minimal\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.AustraliaPost\bin\Minimal\Nop.Plugin.Shipping.AustraliaPost.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Minimal\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Minimal\Nop.Plugin.Shipping.AustraliaPost.pdb

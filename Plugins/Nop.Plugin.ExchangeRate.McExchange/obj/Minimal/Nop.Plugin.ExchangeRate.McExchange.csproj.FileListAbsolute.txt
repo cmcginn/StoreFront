@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExchangeRate.McExchange\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExchangeRate.McExchange\bin\Minimal\Nop.Plugin.ExchangeRate.McExchange.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExchangeRate.McExchange\bin\Minimal\Nop.Plugin.ExchangeRate.McExchange.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Minimal\Nop.Plugin.ExchangeRate.McExchange.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Minimal\Nop.Plugin.ExchangeRate.McExchange.pdb

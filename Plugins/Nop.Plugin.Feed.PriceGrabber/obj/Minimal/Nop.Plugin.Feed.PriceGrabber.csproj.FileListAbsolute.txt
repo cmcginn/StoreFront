@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.PriceGrabber\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.PriceGrabber\bin\Minimal\Nop.Plugin.Feed.PriceGrabber.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.PriceGrabber\bin\Minimal\Nop.Plugin.Feed.PriceGrabber.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.PriceGrabber\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.PriceGrabber\obj\Minimal\Nop.Plugin.Feed.PriceGrabber.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.PriceGrabber\obj\Minimal\Nop.Plugin.Feed.PriceGrabber.pdb

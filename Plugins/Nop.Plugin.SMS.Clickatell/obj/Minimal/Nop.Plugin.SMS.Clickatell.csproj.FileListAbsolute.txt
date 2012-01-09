@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Clickatell\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Clickatell\bin\Minimal\Nop.Plugin.SMS.Clickatell.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Clickatell\bin\Minimal\Nop.Plugin.SMS.Clickatell.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Clickatell\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Clickatell\obj\Minimal\Nop.Plugin.SMS.Clickatell.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.SMS.Clickatell\obj\Minimal\Nop.Plugin.SMS.Clickatell.pdb

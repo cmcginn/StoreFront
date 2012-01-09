@@ -1,0 +1,9 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.AuthorizeNet\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.AuthorizeNet\bin\Minimal\Nop.Plugin.Payments.AuthorizeNet.dll.config
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.AuthorizeNet\bin\Minimal\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.AuthorizeNet\bin\Minimal\Nop.Plugin.Payments.AuthorizeNet.XmlSerializers.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.AuthorizeNet\bin\Minimal\Nop.Plugin.Payments.AuthorizeNet.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Minimal\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Minimal\Nop.Plugin.Payments.AuthorizeNet.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Minimal\Nop.Plugin.Payments.AuthorizeNet.XmlSerializers.dll

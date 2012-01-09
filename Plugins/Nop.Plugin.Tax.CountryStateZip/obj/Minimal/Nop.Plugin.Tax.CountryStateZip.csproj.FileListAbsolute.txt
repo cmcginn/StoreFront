@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.CountryStateZip\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.CountryStateZip\bin\Minimal\Nop.Plugin.Tax.CountryStateZip.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.CountryStateZip\bin\Minimal\Nop.Plugin.Tax.CountryStateZip.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Minimal\Nop.Plugin.Tax.CountryStateZip.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Minimal\Nop.Plugin.Tax.CountryStateZip.pdb

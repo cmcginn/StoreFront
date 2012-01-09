@@ -1,0 +1,9 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\bin\Minimal\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\bin\Minimal\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\bin\Minimal\Nop.Plugin.Payments.PayPalDirect.XmlSerializers.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\bin\Minimal\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Minimal\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Minimal\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Minimal\Nop.Plugin.Payments.PayPalDirect.XmlSerializers.dll

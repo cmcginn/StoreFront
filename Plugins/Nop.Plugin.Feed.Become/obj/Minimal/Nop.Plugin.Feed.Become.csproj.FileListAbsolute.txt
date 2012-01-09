@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Become\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Become\bin\Minimal\Nop.Plugin.Feed.Become.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Become\bin\Minimal\Nop.Plugin.Feed.Become.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Become\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Become\obj\Minimal\Nop.Plugin.Feed.Become.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Become\obj\Minimal\Nop.Plugin.Feed.Become.pdb

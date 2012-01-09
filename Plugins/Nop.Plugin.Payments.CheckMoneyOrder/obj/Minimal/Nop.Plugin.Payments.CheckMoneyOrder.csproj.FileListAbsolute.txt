@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\bin\Minimal\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\bin\Minimal\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Minimal\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Minimal\Nop.Plugin.Payments.CheckMoneyOrder.pdb

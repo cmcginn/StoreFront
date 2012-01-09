@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalStandard\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalStandard\bin\Minimal\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalStandard\bin\Minimal\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Minimal\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Minimal\Nop.Plugin.Payments.PayPalStandard.pdb

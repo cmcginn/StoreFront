@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Froogle\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Froogle\bin\Minimal\Nop.Plugin.Feed.Froogle.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Froogle\bin\Minimal\Nop.Plugin.Feed.Froogle.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Froogle\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Froogle\obj\Minimal\Nop.Plugin.Feed.Froogle.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Feed.Froogle\obj\Minimal\Nop.Plugin.Feed.Froogle.pdb

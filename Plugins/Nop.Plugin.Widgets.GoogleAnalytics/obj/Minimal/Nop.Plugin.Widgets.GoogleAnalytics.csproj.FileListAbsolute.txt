@@ -1,0 +1,6 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\bin\Minimal\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\bin\Minimal\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Minimal\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Minimal\Nop.Plugin.Widgets.GoogleAnalytics.pdb

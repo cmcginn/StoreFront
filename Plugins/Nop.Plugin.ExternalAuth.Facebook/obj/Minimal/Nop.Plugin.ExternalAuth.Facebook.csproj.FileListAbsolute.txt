@@ -1,0 +1,13 @@
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\Description.txt
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\Content\Images\oauth\facebook-logo-large.jpg
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\Content\Images\oauth\facebook-logo.jpg
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\Content\facebookstyles.css
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\Nop.Plugin.ExternalAuth.Facebook.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\Nop.Plugin.ExternalAuth.Facebook.pdb
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\DotNetOpenAuth.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\Facebook.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\Newtonsoft.Json.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\bin\Minimal\DotNetOpenAuth.xml
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Minimal\ResolveAssemblyReference.cache
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Minimal\Nop.Plugin.ExternalAuth.Facebook.dll
+C:\Projects\Urbana\StoreFront\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Minimal\Nop.Plugin.ExternalAuth.Facebook.pdb
