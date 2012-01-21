@@ -1,19 +1,25 @@
 ﻿@{
-    Layout = "~/Views/Shared/_ColumnsThree.cshtml";
+  Layout = "~/Views/Shared/_ColumnsThree.cshtml";
 }
-@Html.Action("TopicBlock", "Topic", new { systemName = "HomePageText" })
-<div class="clear">
-</div>
-@Html.Action("HomepageCategories", "Catalog")
-<div class="clear">
-</div>
-@Html.Action("HomepageProducts", "Catalog")
-<div class="clear">
-</div>
-@Html.Action("HomepageBestSellers", "Catalog")
-<div class="clear">
-</div>
-@Html.Action("HomePageNews", "News")
-<div class="clear">
-</div>
-@Html.Action("HomePagePolls", "Poll")
+
+
+
+@section Featured{
+  <div class="wrapper col4">
+    <div id="featured_slide">
+    @Html.Action( "HomepageProducts", "Catalog" )
+      @**@
+      <a href="javascript:void(0);" id="featured-item-prev">
+        <img src="@Url.Content( "~/Themes/DefaultClassic/Content/images/prev.png" )" alt="" /></a> <a href="javascript:void(0);" id="featured-item-next">
+          <img src="@Url.Content( "~/Themes/DefaultClassic/Content/images/next.png" )" alt="" /></a> </div>
+  </div>
+}
+@Html.Action( "TopicBlock", "Topic", new { systemName = "HomePageText" } )
+<div class="clear"></div>
+@Html.Action( "HomepageCategories", "Catalog" )
+<div class="clear"></div>
+@Html.Action( "HomepageBestSellers", "Catalog" )
+<div class="clear"></div>
+@Html.Action( "HomePageNews", "News" )
+<div class="clear"></div>
+@Html.Action( "HomePagePolls", "Poll" )

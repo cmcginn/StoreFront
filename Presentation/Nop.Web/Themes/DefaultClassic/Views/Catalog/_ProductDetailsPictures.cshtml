@@ -1,5 +1,7 @@
-﻿@model Nop.Web.Models.Catalog.ProductModel
+﻿@using Nop.Web.Framework.UI
+@model Nop.Web.Models.Catalog.ProductModel
 @{
+
     Html.AddScriptParts(@Url.Content("~/Scripts/slimbox2.js"));
 }
 <div class="picture">
@@ -29,3 +31,4 @@
         </table>
     }
 </div>
+

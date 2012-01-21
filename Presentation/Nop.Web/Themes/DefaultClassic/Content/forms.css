@@ -6,53 +6,108 @@ Author URI: http://www.os-templates.com/
 Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
 */
 
-form, fieldset, legend{margin:0; padding:0; border:none;}
-legend{display:none;}
+form, fieldset, legend
+{
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+legend
+{
+  display: none;
+}
 
 /* ----------------------------------------------Forms in Content Area-------------------------------------*/
 
-#container #respond{display: block; width:100%;}
+#container #respond
+{
+  display: block;
+  width: 100%;
+}
 
-#container #respond input{width:170px; padding:2px; border:1px solid #CCCCCC; margin:5px 5px 0 0;}
+#container #respond input
+{
+  width: 170px;
+  padding: 2px;
+  border: 1px solid #CCCCCC;
+  margin: 5px 5px 0 0;
+}
 
-#container #respond textarea{width:98%; border:1px solid #CCCCCC; padding:2px; overflow:auto;}
-	
-#container #respond p{margin:5px 0;}
+#container #respond textarea
+{
+  width: 98%;
+  border: 1px solid #CCCCCC;
+  padding: 2px;
+  overflow: auto;
+}
 
-#container #respond #submit, #container #respond #reset{
-	margin:0;
-	padding:5px;
-	color:#666666;
-	background-color:#F7F7F7;
-	border:1px solid #CCCCCC;
-	}
+#container #respond p
+{
+  margin: 5px 0;
+}
+
+#container #respond #submit, #container #respond #reset
+{
+  margin: 0;
+  padding: 5px;
+  color: #666666;
+  background-color: #F7F7F7;
+  border: 1px solid #CCCCCC;
+}
 
 /* ----------------------------------------------Newsletter-------------------------------------*/
 
-#footer form{
-	display:block;
-	width:300px;
-	margin:0;
-	padding:10px 0;
-	border:none;
-	}
 
-#footer input{
-	display:block;
-	float:left;
-	width:245px;
-	margin:0 5px 0 0;
-	padding:5px;
-	color:#666666;
-	background-color:#FFFFFF;
-	border:1px solid #DBDBDB;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:12px;
-	}
+#footer form
+{
+  display: block;
+  width: 300px;
+  margin: 0;
+  padding: 10px 0;
+  border: none;
+}
 
-#footer input#news_go{
-	width:auto;
-	height:auto;
-	margin:0;
-	padding:4px;
-	}
+#footer input, .searchbox input
+{
+  display: block;
+  float: left;
+  margin:0px 5px 0px 0px;
+  padding: 5px;
+  color: #666666;
+  background-color: #FFFFFF;
+  border: 1px solid #DBDBDB;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.searchbox input#small-searchterms
+{
+  width: 170px;
+}
+.searchbox input#btn-small-search
+{
+  width: auto;
+}
+#footer input#news_go, .buttons input
+{
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 4px;
+}
+
+input[type='submit'],input[type='button']
+{
+  margin-right: 10px;
+  margin-bottom:5px;
+  cursor: pointer;
+  display: block; 
+  padding: 5px;
+  float:left;
+  color: #666666;
+  background-color: #FFFFFF;
+  border: 1px solid #DBDBDB;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+

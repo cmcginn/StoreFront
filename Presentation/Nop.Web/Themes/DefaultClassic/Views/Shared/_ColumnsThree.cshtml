@@ -1,8 +1,14 @@
 ﻿@{
   Layout = "~/Views/Shared/_Root.cshtml";
 }
+@section Featured {
+  @if(IsSectionDefined("Featured")){
+  @RenderSection("Featured")
+  
+}
+}
 @{
-    
+
   //current category ID
   int currentCategoryId = 0;
   if( Url.RequestContext.RouteData.Values[ "controller" ].ToString().Equals( "catalog", StringComparison.InvariantCultureIgnoreCase ) &&
@@ -27,37 +33,29 @@
   }
 }
 <div id="content">
-<h1>Content</h1>
+  <h1>
+    Content</h1>
   @Html.Action( "WidgetsByZone", "Widget", new { widgetZone = Nop.Core.Domain.Cms.WidgetZone.BeforeMainColumn } )
   @RenderBody()
   @Html.Action( "WidgetsByZone", "Widget", new { widgetZone = Nop.Core.Domain.Cms.WidgetZone.AfterMainColumn } )
 </div>
 <div id="column">
-  <div class="holder"> 
-  @if (IsSectionDefined("right"))
-    {
-        @RenderSection("right")
-    }
-    else
-    {
-        @Html.Action("WidgetsByZone", "Widget", new { widgetZone = Nop.Core.Domain.Cms.WidgetZone.BeforeRightSideColumn })
-        <div class="clear">
-        </div>
-        @Html.Action("MiniShoppingCart", "ShoppingCart")
-        <div class="clear">
-        </div>
-        @Html.Action("NewsletterBox", "Newsletter")
-        <div class="clear">
-        </div>
-        @Html.Action("RecentlyViewedProductsBlock", "Catalog")        
-        <div class="clear">
-        </div>        
-        @Html.Action("PollBlock", "Poll", new { systemKeyword = "RightColumnPoll" })
-        <div class="clear">
-        </div>
-        @Html.Action("WidgetsByZone", "Widget", new { widgetZone = Nop.Core.Domain.Cms.WidgetZone.AfterRightSideColumn })
-        <br class="clear">
-        </br>
+  <div class="holder">
+    @if( IsSectionDefined( "right" ) ) {
+      @RenderSection( "right" )
+  } else {
+      @Html.Action( "WidgetsByZone", "Widget", new { widgetZone = Nop.Core.Domain.Cms.WidgetZone.BeforeRightSideColumn } )
+      <div class="clear"></div>
+      @Html.Action( "MiniShoppingCart", "ShoppingCart" )
+      <div class="clear"></div>
+      @Html.Action( "NewsletterBox", "Newsletter" )
+      <div class="clear"></div>
+      @Html.Action( "RecentlyViewedProductsBlock", "Catalog" )        
+      <div class="clear"></div>        
+      @Html.Action( "PollBlock", "Poll", new { systemKeyword = "RightColumnPoll" } )
+      <div class="clear"></div>
+      @Html.Action( "WidgetsByZone", "Widget", new { widgetZone = Nop.Core.Domain.Cms.WidgetZone.AfterRightSideColumn } )
+      <br class="clear"></br>
   }
     @if( IsSectionDefined( "left" ) ) {
       @RenderSection( "left" )
@@ -78,7 +76,6 @@
     }
   </div>
 </div>
-
 @*<div class="master-wrapper-leftside-3">
     @if (IsSectionDefined("left"))
     {

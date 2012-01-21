@@ -1,29 +1,36 @@
 ﻿@model HomePageProductsModel
 @using Nop.Web.Framework.UI;
 @using Nop.Web.Models.Catalog;
-@if (Model.Products.Count > 0)
-{
-    <div class="product-grid home-page-product-grid">
+@if( Model.Products.Count > 0 ) {
+  
+  <div id="featured_content">
+    <ul>
+      @foreach( var item in Model.Products ) {
+        <li><a href="@Url.RouteUrl("Product", new { productId = item.Id, SeName = item.SeName })">
+          <img src="@item.DefaultPictureModel.ImageUrl" alt="" /></a></li>
+          
+      }
+    </ul>
+  </div>
+  
+@*   <div class="product-grid home-page-product-grid">
         <div class="title">
-            @T("HomePage.Products")
+            @T( "HomePage.Products" )
         </div>
         <div class="clear">
         </div>
-        @if (Model.UseSmallProductBox)
-        {
-            @(Html.DataList<ProductModel>(Model.Products, 3,
+        @if( Model.UseSmallProductBox ) {
+            @(Html.DataList<ProductModel>( Model.Products, 3,
             @<div class="item-box">
-                @Html.Partial("_ProductSmallBox", @item)
+                @Html.Partial( "_ProductSmallBox", @item )
+            </div>
+                ))
+        } else {
+        @(Html.DataList<ProductModel>( Model.Products, 2,
+            @<div class="item-box">
+                @Html.Partial( "_ProductBox", @item )
             </div>
                 ))
         }
-        else
-        {
-        @(Html.DataList<ProductModel>(Model.Products, 2,
-            @<div class="item-box">
-                @Html.Partial("_ProductBox", @item)
-            </div>
-                ))
-        }
-    </div>
+    </div>*@
 }

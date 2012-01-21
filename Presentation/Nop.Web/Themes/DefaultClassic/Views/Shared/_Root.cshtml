@@ -54,25 +54,11 @@
 <body id="top">
  @Html.Partial("Header")
  @Html.Partial("HeaderMenu")
-<!-- ####################################################################################################### -->
-<div class="wrapper col4">
-  <div id="featured_slide">
-    <div id="featured_content">
-      <ul>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_57006910" alt="" /></a></li>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_17426940" alt="" /></a></li>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_17552294" alt="" /></a></li>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_17605587" alt="" /></a></li>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_17656931" alt="" /></a></li>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_17743793" alt="" /></a></li>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_17890449" alt="" /></a></li>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_17924731" alt="" /></a></li>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_17849879" alt="" /></a></li>
-        <li><a href="#"><img src="http://ep.yimg.com/ca/I/yhst-35175162591047_2178_17778149" alt="" /></a></li>
-      </ul>
-    </div>
-    <a href="javascript:void(0);" id="featured-item-prev"><img src="@Url.Content("~/Themes/DefaultClassic/Content/images/prev.png")" alt="" /></a> <a href="javascript:void(0);" id="featured-item-next"><img src="@Url.Content("~/Themes/DefaultClassic/Content/images/next.png")" alt="" /></a> </div>
-</div>
+
+@if( IsSectionDefined( "Featured" ) ) {
+  @RenderSection("Featured",false)
+}
+
 <!-- ####################################################################################################### -->
 <div class="wrapper col5">
   <div id="container">
